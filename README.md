@@ -14,10 +14,11 @@ const alice = {
     technologies: {
         frontEnd: {
             js: ["React", "jQuery", "Redux", "Material UI"],
-            css: ["bootstrap", "SASS"]
+            css: ["bootstrap", "SASS"],
+            typescript
         },
         backEnd: {
-            js: ["node", "MongoDB"]
+            js: ["node"]
         },
         databases: ["mongo", "MSSQL"],
         misc: ["Firebase"]
