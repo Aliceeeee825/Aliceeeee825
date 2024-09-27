@@ -10,12 +10,13 @@ A little more about me...
 ```javascript
 const alice = {
     pronouns: "She" | "Her",
-    askMeAbout: ["web dev", "tech", "nintendo switch games", "cooking and baking"],
+    askMeAbout: ["web dev", "tech", "scuba diving", "cooking and baking"],
     technologies: {
         frontEnd: {
-            js: ["React", "jQuery", "Redux", "Material UI"],
+            js: ["React", "jQuery", "Redux", "Material UI", "typescript"],
             css: ["bootstrap", "SASS"],
-            typescript
+            testing: ["Cypress", "React testing library", "jest"],
+            cloud: ["AWS"]
         },
         backEnd: {
             js: ["node"]
